@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Goiânia",
+        "category": "Cities",
+        "city": "Goiânia",
+        "state": "Goiás",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Bosque dos Buritis",
+        "coordinates": {
+            "longitude": -49.2641,
+            "latitude": -16.6869
+        },
+        "description": "Goiânia, the capital of Goiás state, is known for its green spaces and modernist architecture. The city is famous for its parks, cultural venues, and vibrant nightlife, offering a rich mix of urban living and natural beauty. Visitors often explore the Bosque dos Buritis, a lush park in the heart of the city.",
+        "imageName": "goiania"
+    },
+    {
+        "name": "Grenoble",
+        "category": "Cities",
+        "city": "Grenoble",
+        "state": "Auvergne-Rhône-Alpes",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Parc Paul Mistral",
+        "coordinates": {
+            "longitude": 5.7201,
+            "latitude": 45.1905
+        },
+        "description": "Grenoble is a city nestled in the French Alps, renowned for its proximity to ski resorts and outdoor adventure. With a rich historical background, it's also famous for its science and technology sector. The city offers a blend of nature, history, and innovation.",
+        "imageName": "grenoble"
+    },
+    {
+        "name": "Madrid",
+        "category": "Cities",
+        "city": "Madrid",
+        "state": "Madrid",
+        "id": 1003,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Parque del Retiro",
+        "coordinates": {
+            "longitude": -3.7038,
+            "latitude": 40.4168
+        },
+        "description": "Madrid, Spain's capital, is known for its royal heritage, lively squares, and rich artistic culture. The Parque del Retiro, a vast green space, is a popular destination for both locals and tourists. The city's vibrant lifestyle, historic landmarks, and world-class museums make it a must-see destination.",
+        "imageName": "madrid"
+    },
+    {
+        "name": "Genova",
+        "category": "Cities",
+        "city": "Genova",
+        "state": "Liguria",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Parco della Villetta Di Negro",
+        "coordinates": {
+            "longitude": 8.9442,
+            "latitude": 44.4056
+        },
+        "description": "Genoa, an Italian port city, boasts a rich maritime history, narrow medieval streets, and a vibrant cultural scene. Parco della Villetta Di Negro offers panoramic views of the city, making it a perfect spot for relaxing while enjoying the city's blend of old-world charm and modern life.",
+        "imageName": "genova"
+    },
+    {
+        "name": "Aveiro",
+        "category": "Cities",
+        "city": "Aveiro",
+        "state": "Aveiro",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Parque Infante D. Pedro",
+        "coordinates": {
+            "longitude": -8.6126,
+            "latitude": 40.6405
+        },
+        "description": "Aveiro, often called the 'Venice of Portugal,' is known for its canals and colorful boats. The city is also famous for its Art Nouveau buildings, beautiful beaches, and delicious ovos moles (a traditional sweet). Parque Infante D. Pedro is a tranquil place to relax amidst nature.",
+        "imageName": "aveiro"
+    },
+    {
+        "name": "Itaberai",
+        "category": "Cities",
+        "city": "Itaberai",
+        "state": "Goiás",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Parque Municipal",
+        "coordinates": {
+            "longitude": -49.790996836,
+            "latitude": -16.00499998
+        },
+        "description": "Itaberai is a small city in Goiás known for its natural beauty and close-knit community. The Parque Municipal provides a peaceful escape, offering a quiet environment to connect with nature and enjoy the outdoors in this charming city.",
+        "imageName": "itaberai"
+    },
+    {
+        "name": "São Paulo",
+        "category": "Cities",
+        "city": "São Paulo",
+        "state": "São Paulo",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Ibirapuera Park",
+        "coordinates": {
+            "longitude": -46.6333,
+            "latitude": -23.5505
+        },
+        "description": "São Paulo, the largest city in Brazil, is a bustling metropolis famous for its diverse culture, cuisine, and business hub. Ibirapuera Park, one of the largest and most famous green spaces in the city, offers a break from the urban pace, with cultural institutions, beautiful landscapes, and recreational activities.",
+        "imageName": "saopaulo"
+    },
+    {
+        "name": "Niteroi",
+        "category": "Cities",
+        "city": "Niteroi",
+        "state": "Rio de Janeiro",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Parque da Cidade",
+        "coordinates": {
+            "longitude": -43.1033,
+            "latitude": -22.8833
+        },
+        "description": "Niterói, located across the bay from Rio de Janeiro, offers stunning views of the famous city skyline and beaches. Parque da Cidade is a popular park with panoramic views, perfect for hiking and enjoying the natural beauty of the area.",
+        "imageName": "niteroi"
+    },
+    {
+        "name": "Ilhabela",
+        "category": "Cities",
+        "city": "Ilhabela",
+        "state": "São Paulo",
+        "id": 1009,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Parque Estadual de Ilhabela",
+        "coordinates": {
+            "longitude": -45.3682,
+            "latitude": -23.7716
+        },
+        "description": "Ilhabela, an island off the coast of São Paulo, is known for its beautiful beaches, lush forests, and outdoor activities such as hiking and sailing. Parque Estadual de Ilhabela is a must-visit for nature lovers, offering trails, waterfalls, and rich biodiversity.",
+        "imageName": "ilhabela"
+    }
+]
