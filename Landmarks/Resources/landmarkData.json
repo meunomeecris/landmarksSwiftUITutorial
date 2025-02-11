@@ -1,7 +1,7 @@
 [
     {
         "name": "Goiânia",
-        "category": "Cities",
+        "category": "Capital",
         "city": "Goiânia",
         "state": "Goiás",
         "id": 1001,
@@ -17,7 +17,7 @@
     },
     {
         "name": "Grenoble",
-        "category": "Cities",
+        "category": "Metropolis",
         "city": "Grenoble",
         "state": "Auvergne-Rhône-Alpes",
         "id": 1002,
@@ -33,7 +33,7 @@
     },
     {
         "name": "Madrid",
-        "category": "Cities",
+        "category": "Capital",
         "city": "Madrid",
         "state": "Madrid",
         "id": 1003,
@@ -49,7 +49,7 @@
     },
     {
         "name": "Genova",
-        "category": "Cities",
+        "category": "Metropolis",
         "city": "Genova",
         "state": "Liguria",
         "id": 1004,
@@ -65,7 +65,7 @@
     },
     {
         "name": "Aveiro",
-        "category": "Cities",
+        "category": "Villages",
         "city": "Aveiro",
         "state": "Aveiro",
         "id": 1005,
@@ -81,7 +81,7 @@
     },
     {
         "name": "Itaberai",
-        "category": "Cities",
+        "category": "Villages",
         "city": "Itaberai",
         "state": "Goiás",
         "id": 1006,
@@ -97,7 +97,7 @@
     },
     {
         "name": "São Paulo",
-        "category": "Cities",
+        "category": "Capital",
         "city": "São Paulo",
         "state": "São Paulo",
         "id": 1007,
@@ -113,7 +113,7 @@
     },
     {
         "name": "Niteroi",
-        "category": "Cities",
+        "category": "Metropolis",
         "city": "Niteroi",
         "state": "Rio de Janeiro",
         "id": 1008,
@@ -129,7 +129,7 @@
     },
     {
         "name": "Ilhabela",
-        "category": "Cities",
+        "category": "Villages",
         "city": "Ilhabela",
         "state": "São Paulo",
         "id": 1009,
