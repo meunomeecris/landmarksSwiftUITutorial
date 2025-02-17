@@ -5,7 +5,7 @@
         "city": "Goiânia",
         "state": "Goiás",
         "id": 1001,
-        "isFeatured": true,
+        "isFeatured": false,
         "isFavorite": true,
         "park": "Bosque dos Buritis",
         "coordinates": {
@@ -21,7 +21,7 @@
         "city": "Grenoble",
         "state": "Auvergne-Rhône-Alpes",
         "id": 1002,
-        "isFeatured": false,
+        "isFeatured": true,
         "isFavorite": false,
         "park": "Parc Paul Mistral",
         "coordinates": {
@@ -69,7 +69,7 @@
         "city": "Aveiro",
         "state": "Aveiro",
         "id": 1005,
-        "isFeatured": true,
+        "isFeatured": false,
         "isFavorite": true,
         "park": "Parque Infante D. Pedro",
         "coordinates": {
@@ -133,7 +133,7 @@
         "city": "Ilhabela",
         "state": "São Paulo",
         "id": 1009,
-        "isFeatured": true,
+        "isFeatured": false,
         "isFavorite": true,
         "park": "Parque Estadual de Ilhabela",
         "coordinates": {
